@@ -3,3 +3,4 @@ src/
 pkg/
 coverage.html
 Makefile
+.idea
